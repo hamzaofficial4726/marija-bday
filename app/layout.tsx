@@ -2,13 +2,13 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-	title: "Thank You - Marija's Birthday Party 🎉",
+	title: "Thank You - Hamza Birthday Party 🎉",
 	description:
-		"Thank you all for making Marija's birthday celebration on August 15th absolutely magical! Relive the memories! 💖✨",
+		"Thank you all for making Hamza birthday celebration on November 08th absolutely magical! Relive the memories! 💖✨",
 	openGraph: {
-		title: "Thank You - Marija's Birthday Party 🎉",
+		title: "Thank You - Hamza Birthday Party 🎉",
 		description:
-			"Thank you all for making Marija's birthday celebration on August 15th absolutely magical! Relive the memories! 💖✨",
+			"Thank you all for making Hamza birthday celebration on November 08th absolutely magical! Relive the memories! 💖✨",
 		type: 'website',
 	},
 }
