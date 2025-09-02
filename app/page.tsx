@@ -12,7 +12,7 @@ type Language = 'en' | 'no' | 'sr' | 'nl'
 
 const translations = {
 	en: {
-		thankYou: '✨ Thank You Hamza ✨',
+		thankYou: '✨ Thank You All ✨',
 		birthday: 'Birthday',
 		subtitle: 'What an amazing evening we had together! 🎂💖',
 		eventRecap: 'Time Since Our Party',
