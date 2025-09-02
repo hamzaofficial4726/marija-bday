@@ -149,8 +149,8 @@ export default function BirthdayPartyThankYou() {
 		updateWindowDimensions()
 		window.addEventListener('resize', updateWindowDimensions)
 
-		// Time since party - August 15th, 2025 at 19:30
-		const partyDate = new Date('2025-08-15T19:30:00').getTime()
+		// Time since party - November 08th, 2025 at 19:30
+		const partyDate = new Date('2025-11-08T19:30:00').getTime()
 
 		const updateTimeSince = () => {
 			const now = new Date().getTime()
@@ -176,11 +176,11 @@ export default function BirthdayPartyThankYou() {
 	}, [])
 
 	const partyDetails = {
-		name: 'Marija',
-		date: 'Friday, August 15th',
-		dateNo: 'Fredag, 15. august',
-		dateSr: 'Petak, 15. avgust',
-		dateNl: 'Vrijdag, 15 augustus',
+		name: 'Hamza',
+		date: 'Friday, November 08th',
+		dateNo: 'Fredag, 08. november',
+		dateSr: 'Petak, 08. noyabr',
+		dateNl: 'Vrijdag, 08 novembri',
 		time: '7:30 PM',
 		timeNo: '19:30',
 		timeSr: '19:30',
