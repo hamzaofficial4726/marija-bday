@@ -364,7 +364,7 @@ export default function BirthdayPartyThankYou() {
 							exit='hidden'
 						>
 							<span className='bg-gradient-to-r from-pink-600 via-rose-500 to-pink-700 bg-clip-text text-transparent'>
-								Marija&apos;s
+								Hamza&apos;s
 							</span>
 							<br />
 							<span className='text-slate-700 flex items-center justify-center gap-6'>
